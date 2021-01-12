@@ -1,4 +1,4 @@
-.palace__link {
+.place__link {
     font-size: 18px;
     line-height: 1.22;
     text-decoration-line: underline;
@@ -6,6 +6,6 @@
     transition: opacity .01s linear;
 }
 
-.palace__link:hover {
+.place__link:hover {
     opacity: 80%;
 }
