@@ -22,7 +22,6 @@
     .photo-grid {
         width: 93.75%;
         grid-template-columns: repeat(2, 352px);
-        grid-template-rows: auto;
         grid-column-gap: 16px;
         grid-row-gap: 16px;
         margin: 88px auto 88px;
@@ -33,7 +32,6 @@
     .photo-grid {
         width: 90%;
         grid-template-columns: repeat(1, 288px);
-        grid-template-rows: auto;
         grid-row-gap: 12px;
         margin: 64px auto 64px;
     }
