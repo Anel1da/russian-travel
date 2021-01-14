@@ -8,3 +8,5 @@
  * Адаптивная вёрстка
  * Организация файловой структуры по БЭМ
 
+*Ссылка на проект на GithabPages*
+https://anel1da.github.io/russian-travel/
