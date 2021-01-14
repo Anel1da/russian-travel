@@ -4,3 +4,7 @@
     margin: 0;
     padding-left: 0;
 }
+
+.header__lang:last-child {
+    margin-right: 0;
+}
